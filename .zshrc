@@ -21,7 +21,7 @@ antigen bundles <<EOBUNDLES
 EOBUNDLES
 
 # Load the theme
-antigen theme robbyrussell
+antigen theme UristMcModder/dotfiles urist.zsh-theme
 
 # Tell antigen that you're done
 antigen apply
